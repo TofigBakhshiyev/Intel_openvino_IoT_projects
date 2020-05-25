@@ -3,9 +3,9 @@
 
 In this application, Edge AI system directs people to less-congested queues in the rush hour and this app was tested in three different scneraios, namely manufacturing, retail and transportation. This project is a part of Intel Edge AI for IoT Developers Nanodegree program by Udacity. 
 ##### Project videos
-[Manufacturing](https://drive.google.com/file/d/13lTu6l9dZ2IKq4dST-1DygDmI0t_kIBB/view?usp=sharing)
-[Retail](https://drive.google.com/file/d/1_4knzl-YP7zH0YMof4WpOGoGdzdEFCQW/view?usp=sharing) 
-[Transportation](https://drive.google.com/file/d/1IcfxAbDiFEWf_2YiEOl_w3xL0xzFzOm_/view?usp=sharing)
+[Manufacturing](https://drive.google.com/file/d/13lTu6l9dZ2IKq4dST-1DygDmI0t_kIBB/view?usp=sharing) <br/>
+[Retail](https://drive.google.com/file/d/1_4knzl-YP7zH0YMof4WpOGoGdzdEFCQW/view?usp=sharing) <br/>
+[Transportation](https://drive.google.com/file/d/1IcfxAbDiFEWf_2YiEOl_w3xL0xzFzOm_/view?usp=sharing) <br/>
 ## Requirements
 
 ### Hardware 
