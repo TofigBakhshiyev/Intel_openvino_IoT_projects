@@ -1,5 +1,5 @@
 
-# People Counter App at the Edge
+# Smart Queuing System
 
 In this application, Edge AI system directs people to less-congested queues in the rush hour and this app was tested in three different scneraios, namely manufacturing, retail and transportation. This project is a part of Intel Edge AI for IoT Developers Nanodegree program by Udacity. 
 ##### Project videos
