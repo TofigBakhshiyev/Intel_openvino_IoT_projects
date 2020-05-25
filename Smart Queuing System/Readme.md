@@ -77,6 +77,6 @@ Before run the notebooks, you should change all path in all notebooks
 - [Retail_Scenario.ipynb](./Retail_Scenario.ipynb)
 - [Transportation_Scenario.ipynb](./Transportation_Scenario.ipynb)
 #### For test results and scenarios, you can check pdf file
-App was tested on CPU, IGPU, VPU and FPGA
-[Results in different devices](https://github.com/TofigBakhshiyev/Udacity_Intel_Edge_AI_for_IoT/blob/master/Smart%20Queuing%20System/choose-the-right-hardware-proposal-template.pdf)
+App was tested on CPU, IGPU, VPU and FPGA <br/>
+[Results in the different devices](https://github.com/TofigBakhshiyev/Udacity_Intel_Edge_AI_for_IoT/blob/master/Smart%20Queuing%20System/choose-the-right-hardware-proposal-template.pdf)
 
