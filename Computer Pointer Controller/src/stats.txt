@@ -1,0 +1,8 @@
+Inference Time: 14.465 ms
+FPS: 4.1
+All model loading times
+Face Detection model load time: 571.000 ms
+Facial Landmarks model load time: 131.999 ms
+Head Pose Estimation model load time: 175.997 ms
+Gaze Estimation model load time: 208.008 ms
+Total: 1087.005 ms
