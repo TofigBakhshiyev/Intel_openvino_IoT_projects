@@ -15,7 +15,7 @@ In this application, Edge AI system directs people to less-congested queues in t
 
 ### Software
 
--   Intel® Distribution of OpenVINO™ toolkit 2020.1 release 
+-   Intel® Distribution of OpenVINO™ toolkit 2020.1 release [docs](https://software.intel.com/content/www/us/en/develop/tools/openvino-toolkit/choose-download.html)
 -   Intel DevCloud
 
 ## Setup
