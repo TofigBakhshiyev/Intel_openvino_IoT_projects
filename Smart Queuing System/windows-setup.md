@@ -22,12 +22,8 @@ Next, you’ll follow the Linux Setup instructions, but do note there are a coup
 
     Note that this will download the `.tgz` file in your current directory. You can then further follow the Linux instructions to extract and install these files.
 
-2. Note that when you run the verification scripts at the end of installing OpenVINO™, the WSL terminal will not allow the second script to open a display window. As long as the first script runs fine and the second script only fails at displaying the window, everything should be installed fine.
-
-### Install NPM
-
-Follow the instructions in the main README file under “Install npm” to make sure the relevant NPM libraries are installed for the included Node servers.
-
+2. Note that when you run the verification scripts at the end of installing OpenVINO™, the WSL terminal will not allow the second script to open a display window. As long as the first script runs fine and the second script only fails at displaying the window, everything should be installed fine. 
+ 
 ### Use Visual Studios with WSL
 
 So far, you have been stuck working from the WSL terminal, and likely don’t want to edit all your code from within there. You can follow the instructions [here](https://code.visualstudio.com/docs/remote/wsl) to link the Visual Studios IDE to WSL, and allow you to edit your code files outside of the terminal window.
